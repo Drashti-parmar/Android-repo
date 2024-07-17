@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "26283292069",
+    "project_id": "mehsha-b2ef6",
+    "storage_bucket": "mehsha-b2ef6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26283292069:android:decec50c5169960fcca44c",
+        "android_client_info": {
+          "package_name": "com.example.login2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKNwuhcbEXu0_NPzrawaHGMNzuawvFHqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
